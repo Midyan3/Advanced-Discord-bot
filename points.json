@@ -1,0 +1,796 @@
+{
+  "system": [
+    {
+      "username": "ds3knight",
+      "points": 1405,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": true,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 1050,
+      "GambleWon": 300,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "CHUBBZ",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "tarrystone48",
+      "points": null,
+      "ban": false,
+      "rd": true,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "Lucid_espRツ",
+      "points": 5,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "Drago",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "Serro",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "Bunk",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "Fonz",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "yktv_Jayv",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "Vinny112244",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "GeraldENT",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "sturdy_just24",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "gummy",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "CHUBBZJR",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "Rich😮",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "JukeDuke",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "drago0987",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "A Real Fun Guy",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "Aerostar",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "Serrano2",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "ImWrecks",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "imGod",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "Rock",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "TsukiSuzuya",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "KusuSuave",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "Go die",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "yuriy",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "GreenPanda(Screen)",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "dat jus💤🤷🏽♂🥵🤣",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "GreenPanda",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    },
+    {
+      "username": "Y'allLikeMeOrSomething",
+      "points": 0,
+      "ban": false,
+      "rd": false,
+      "Muted": false,
+      "Demote": false,
+      "Promote": false,
+      "Coupon": false,
+      "OpenTrade": false,
+      "Stocks": 0,
+      "GambleLost": 0,
+      "GambleWon": 0,
+      "Trade": [
+        {
+          "username": "",
+          "points": 0,
+          "ban": false,
+          "rd": false,
+          "Muted": false,
+          "Coupon": false
+        }
+      ],
+      "Bought": []
+    }
+  ],
+  "Bank": [
+    {
+      "Money": 417088,
+      "Loan": [
+        {
+          "username": "",
+          "Loaned": 0,
+          "LoanTime": 0,
+          "Owed": 0,
+          "interest": 0,
+          "ClosedLoan": false,
+          "DownPayment": 0,
+          "Credit": 0
+        }
+      ]
+    }
+  ]
+}

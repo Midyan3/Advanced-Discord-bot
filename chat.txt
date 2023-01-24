@@ -1,0 +1,3613 @@
+[07/06/2022] Wed Jul 06 2022 15:04:01 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|Documentation can be found at:
+https://fredboat.com/docs
+
+Want to add FredBoat to your server? If you have Manage Server permissions for your guild, you can invite FredBoat:
+<https://fredboat.com/add>
+
+Need help or have any ideas for FredBoat? Perhaps you just want to hang out? Join the FredBoat community!
+https://discord.gg/cgPFW4q
+
+You cannot send FredBoat commands through DMs.|
+
+
+[07/06/2022] Wed Jul 06 2022 15:06:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|;skip|
+
+
+[07/06/2022] Wed Jul 06 2022 15:06:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|Skipped track #1: **Renai Circulation「恋愛サーキュレーション」歌ってみた【＊なみりん】**|
+
+
+[07/06/2022] Wed Jul 06 2022 15:06:57 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|;skip|
+
+
+[07/06/2022] Wed Jul 06 2022 15:06:57 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|Skipped track #1: **Tokyo Ghoul OP/Opening Full「Unravel - TK」[Kami Cover]**|
+
+
+[07/06/2022] Wed Jul 06 2022 15:07:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|;skip|
+
+
+[07/06/2022] Wed Jul 06 2022 15:07:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|The queue is empty!|
+
+
+[07/06/2022] Wed Jul 06 2022 15:07:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|;play 2 phones|
+
+
+[07/06/2022] Wed Jul 06 2022 15:07:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|Searching YouTube for `2 phones`...|
+
+
+[07/06/2022] Wed Jul 06 2022 15:07:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|;play 1|
+
+
+[07/06/2022] Wed Jul 06 2022 15:07:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|ds3knight set the position of **Kevin Gates - 2 Phones [Official Music Video]** to **00:11**|
+
+
+[07/06/2022] Wed Jul 06 2022 15:19:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble stats|
+
+
+[07/06/2022] Wed Jul 06 2022 15:19:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Make sure you typed it correctly|
+
+
+[07/06/2022] Wed Jul 06 2022 15:19:10 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 15:20:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stats gamble|
+
+
+[07/06/2022] Wed Jul 06 2022 15:21:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stats gamble|
+
+
+[07/06/2022] Wed Jul 06 2022 15:21:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 15:26:12 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!points|
+
+
+[07/06/2022] Wed Jul 06 2022 15:26:13 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 15:26:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 40 3|
+
+
+[07/06/2022] Wed Jul 06 2022 15:26:23 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 15:26:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!Clean|
+
+
+[07/06/2022] Wed Jul 06 2022 15:26:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Deleted 100 messages.|
+
+
+[07/06/2022] Wed Jul 06 2022 15:27:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|No user was mentioned|
+
+
+[07/06/2022] Wed Jul 06 2022 17:11:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!allpoints|
+
+
+[07/06/2022] Wed Jul 06 2022 17:11:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:13:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!shop|
+
+
+[07/06/2022] Wed Jul 06 2022 17:13:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:13:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 100 3|
+
+
+[07/06/2022] Wed Jul 06 2022 17:13:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:14:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 100 1|
+
+
+[07/06/2022] Wed Jul 06 2022 17:14:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:14:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 30|
+
+
+[07/06/2022] Wed Jul 06 2022 17:14:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Make sure you typed it correctly|
+
+
+[07/06/2022] Wed Jul 06 2022 17:15:01 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 30 3|
+
+
+[07/06/2022] Wed Jul 06 2022 17:15:01 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:15:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 1 1|
+
+
+[07/06/2022] Wed Jul 06 2022 17:15:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:15:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 1 4|
+
+
+[07/06/2022] Wed Jul 06 2022 17:15:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:16:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 1 3|
+
+
+[07/06/2022] Wed Jul 06 2022 17:16:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:16:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 1 3|
+
+
+[07/06/2022] Wed Jul 06 2022 17:16:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:17:01 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stats gambke|
+
+
+[07/06/2022] Wed Jul 06 2022 17:17:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stats gamble|
+
+
+[07/06/2022] Wed Jul 06 2022 17:17:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 10 3|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:10 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|!gamble 100 1|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|You dont have enough points to gamble that much|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:18 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|!gamble 10 1|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:26 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:28:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:29:24 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gambke 1 2|
+
+
+[07/06/2022] Wed Jul 06 2022 17:29:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 2 1|
+
+
+[07/06/2022] Wed Jul 06 2022 17:29:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:29:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:29:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:29:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:30:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 1 2|
+
+
+[07/06/2022] Wed Jul 06 2022 17:30:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:30:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:30:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:30:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:04 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 1 2|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|!gamble 20 2|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|You dont have enough points to gamble that much|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|!gamble 1 1|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:40 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|!TIME|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|!to,e|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|!time|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|!yoo|
+
+
+[07/06/2022] Wed Jul 06 2022 17:31:58 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|!help|
+
+
+[07/06/2022] Wed Jul 06 2022 17:35:45 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 1 1|
+
+
+[07/06/2022] Wed Jul 06 2022 17:35:46 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:35:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:35:48 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:35:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:35:59 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 1 1|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:01 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:04 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 1 1|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:11 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:12 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 1 1|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:23 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:24 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:26 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 1 1|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:42 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 1 2|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:43 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:44 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:45 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:36:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stats gamble|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 1 2|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:23 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:24 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 1 6|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:46 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: tarrystone48            Chat|!gamble 1 2|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:48 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|!help|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|!gamble|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Make sure you typed it correctly|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|!gamble 1|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Make sure you typed it correctly|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|..?|
+
+
+[07/06/2022] Wed Jul 06 2022 17:37:59 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|<@944695781158436920> help|
+
+
+[07/06/2022] Wed Jul 06 2022 17:38:03 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|ok|
+
+
+[07/06/2022] Wed Jul 06 2022 17:38:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|!gamble 2|
+
+
+[07/06/2022] Wed Jul 06 2022 17:38:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Make sure you typed it correctly|
+
+
+[07/06/2022] Wed Jul 06 2022 17:38:12 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|!gamble 1 5|
+
+
+[07/06/2022] Wed Jul 06 2022 17:38:13 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:38:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:38:15 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:38:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:38:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat|!gamble 4 6|
+
+
+[07/06/2022] Wed Jul 06 2022 17:38:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:38:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:38:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:38:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:47:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!gamble 2 3|
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!gamble 2 3|
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:03 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:04 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!gamble 2 3|
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:15 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:33 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!gamble 2 3|
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:48:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:49:18 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!gamble 200 4|
+
+
+[07/06/2022] Wed Jul 06 2022 17:49:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:49:20 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:49:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:49:23 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:49:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!points|
+
+
+[07/06/2022] Wed Jul 06 2022 17:49:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:49:45 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 200 3|
+
+
+[07/06/2022] Wed Jul 06 2022 17:49:46 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:49:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:49:48 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:49:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:50:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 400 4|
+
+
+[07/06/2022] Wed Jul 06 2022 17:50:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:50:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:50:10 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:50:12 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:50:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 42 5|
+
+
+[07/06/2022] Wed Jul 06 2022 17:50:28 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:50:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:50:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 17:50:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:52:10 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!help|
+
+
+[07/06/2022] Wed Jul 06 2022 17:52:10 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 17:53:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!Clean|
+
+
+[07/06/2022] Wed Jul 06 2022 17:53:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Deleted 100 messages.|
+
+
+[07/06/2022] Wed Jul 06 2022 17:53:45 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!Clean|
+
+
+[07/06/2022] Wed Jul 06 2022 17:58:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade|
+
+
+[07/06/2022] Wed Jul 06 2022 17:58:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade|
+
+
+[07/06/2022] Wed Jul 06 2022 17:59:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade|
+
+
+[07/06/2022] Wed Jul 06 2022 18:01:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade|
+
+
+[07/06/2022] Wed Jul 06 2022 18:01:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:01:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade|
+
+
+[07/06/2022] Wed Jul 06 2022 18:01:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:01:33 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/06/2022] Wed Jul 06 2022 18:03:40 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/06/2022] Wed Jul 06 2022 18:04:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/06/2022] Wed Jul 06 2022 18:04:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/06/2022] Wed Jul 06 2022 18:05:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/06/2022] Wed Jul 06 2022 18:06:20 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/06/2022] Wed Jul 06 2022 18:06:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[07/06/2022] Wed Jul 06 2022 18:07:13 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade finished, waiting for tarrystone48 to accept or decline|
+
+
+[07/06/2022] Wed Jul 06 2022 18:07:13 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:12:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/06/2022] Wed Jul 06 2022 18:12:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/06/2022] Wed Jul 06 2022 18:14:24 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/06/2022] Wed Jul 06 2022 18:14:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[07/06/2022] Wed Jul 06 2022 18:15:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/06/2022] Wed Jul 06 2022 18:15:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[07/06/2022] Wed Jul 06 2022 18:15:33 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:15:33 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade finished, waiting for tarrystone48 to accept or decline|
+
+
+[07/06/2022] Wed Jul 06 2022 18:15:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade finished, waiting for tarrystone48 to accept or decline|
+
+
+[07/06/2022] Wed Jul 06 2022 18:15:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:25:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/06/2022] Wed Jul 06 2022 18:25:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[07/06/2022] Wed Jul 06 2022 18:25:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a ban|
+
+
+[07/06/2022] Wed Jul 06 2022 18:25:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a RD|
+
+
+[07/06/2022] Wed Jul 06 2022 18:26:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a muted|
+
+
+[07/06/2022] Wed Jul 06 2022 18:26:10 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a RD|
+
+
+[07/06/2022] Wed Jul 06 2022 18:26:11 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a ban|
+
+
+[07/06/2022] Wed Jul 06 2022 18:26:13 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Person you are trying to trade with does not have a muted|
+
+
+[07/06/2022] Wed Jul 06 2022 18:26:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Person you are trying to trade with does not have a RD|
+
+
+[07/06/2022] Wed Jul 06 2022 18:26:18 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Person you are trying to trade with does not have a ban|
+
+
+[07/06/2022] Wed Jul 06 2022 18:26:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:26:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade finished, waiting for tarrystone48 to accept or decline|
+
+
+[07/06/2022] Wed Jul 06 2022 18:27:24 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/06/2022] Wed Jul 06 2022 18:27:24 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[07/06/2022] Wed Jul 06 2022 18:28:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You are putting up a muted|
+
+
+[07/06/2022] Wed Jul 06 2022 18:28:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a RD|
+
+
+[07/06/2022] Wed Jul 06 2022 18:28:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:28:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade finished, waiting for tarrystone48 to accept or decline|
+
+
+[07/06/2022] Wed Jul 06 2022 18:29:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!Clean|
+
+
+[07/06/2022] Wed Jul 06 2022 18:29:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Deleted 100 messages.|
+
+
+[07/06/2022] Wed Jul 06 2022 18:30:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!offer|
+
+
+[07/06/2022] Wed Jul 06 2022 18:30:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:31:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!offer|
+
+
+[07/06/2022] Wed Jul 06 2022 18:31:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:35:26 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!points|
+
+
+[07/06/2022] Wed Jul 06 2022 18:35:26 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:35:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!allpoints|
+
+
+[07/06/2022] Wed Jul 06 2022 18:35:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:35:44 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 20  4|
+
+
+[07/06/2022] Wed Jul 06 2022 18:35:45 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 18:35:46 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 18:35:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 18:35:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:36:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 30 3|
+
+
+[07/06/2022] Wed Jul 06 2022 18:36:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 18:36:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 18:36:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 18:36:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:36:48 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 50 1|
+
+
+[07/06/2022] Wed Jul 06 2022 18:36:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 18:36:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 18:36:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 18:36:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:37:18 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stats gamble|
+
+
+[07/06/2022] Wed Jul 06 2022 18:37:18 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:40:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: gummy            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:42:15 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stats gamble|
+
+
+[07/06/2022] Wed Jul 06 2022 18:42:15 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 18:53:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|<@615686084650860544>|
+
+
+[07/06/2022] Wed Jul 06 2022 18:56:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!Clean|
+
+
+[07/06/2022] Wed Jul 06 2022 18:56:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Deleted 100 messages.|
+
+
+[07/06/2022] Wed Jul 06 2022 19:17:18 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!loan|
+
+
+[07/06/2022] Wed Jul 06 2022 19:17:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!loan|
+
+
+[07/06/2022] Wed Jul 06 2022 19:19:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!loan|
+
+
+[07/06/2022] Wed Jul 06 2022 19:19:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!loan|
+
+
+[07/06/2022] Wed Jul 06 2022 19:19:58 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!loan|
+
+
+[07/06/2022] Wed Jul 06 2022 19:19:58 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 19:22:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!loan|
+
+
+[07/06/2022] Wed Jul 06 2022 19:24:33 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!loan|
+
+
+[07/06/2022] Wed Jul 06 2022 19:24:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 19:25:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!loan|
+
+
+[07/06/2022] Wed Jul 06 2022 19:25:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 19:26:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!gamble 70 3|
+
+
+[07/06/2022] Wed Jul 06 2022 19:26:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 19:26:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 19:26:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 19:26:57 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 19:34:11 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!gamble 2 3|
+
+
+[07/06/2022] Wed Jul 06 2022 19:34:12 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 19:34:13 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 19:34:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 19:34:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 19:34:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!gamble 100 3|
+
+
+[07/06/2022] Wed Jul 06 2022 19:34:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 19:34:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 19:34:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 19:34:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 19:34:40 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!loan|
+
+
+[07/06/2022] Wed Jul 06 2022 19:34:40 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 19:35:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!loan|
+
+
+[07/06/2022] Wed Jul 06 2022 19:35:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 19:35:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!Clean|
+
+
+[07/06/2022] Wed Jul 06 2022 19:35:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Deleted 100 messages.|
+
+
+[07/06/2022] Wed Jul 06 2022 19:36:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!Clean|
+
+
+[07/06/2022] Wed Jul 06 2022 19:36:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Deleted 100 messages.|
+
+
+[07/06/2022] Wed Jul 06 2022 21:17:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!gamble 100 2|
+
+
+[07/06/2022] Wed Jul 06 2022 21:17:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|You dont have enough points to gamble that much|
+
+
+[07/06/2022] Wed Jul 06 2022 21:18:03 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!poi nts|
+
+
+[07/06/2022] Wed Jul 06 2022 21:18:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!points|
+
+
+[07/06/2022] Wed Jul 06 2022 21:18:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 21:18:15 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 20 3|
+
+
+[07/06/2022] Wed Jul 06 2022 21:18:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 21:18:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/06/2022] Wed Jul 06 2022 21:18:18 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/06/2022] Wed Jul 06 2022 21:18:20 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/06/2022] Wed Jul 06 2022 21:19:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|Muted|
+
+
+[07/06/2022] Wed Jul 06 2022 21:19:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|FredBoat♪♪ is not muted|
+
+
+[07/06/2022] Wed Jul 06 2022 21:19:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/06/2022] Wed Jul 06 2022 21:19:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Bunk is not muted|
+
+
+[07/06/2022] Wed Jul 06 2022 21:19:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Serro is muted|
+
+
+[07/06/2022] Wed Jul 06 2022 21:19:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Serro Has been disconnected for being muted|
+
+
+[07/06/2022] Wed Jul 06 2022 21:19:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Drago is not muted|
+
+
+[07/06/2022] Wed Jul 06 2022 21:20:01 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Lucid_espRツ is not muted|
+
+
+[07/06/2022] Wed Jul 06 2022 21:20:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|tarrystone48 is not muted|
+
+
+[07/06/2022] Wed Jul 06 2022 21:20:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight is not muted|
+
+
+[07/07/2022] Thu Jul 07 2022 15:42:23 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!time|
+
+
+[07/07/2022] Thu Jul 07 2022 15:43:28 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!time|
+
+
+[07/07/2022] Thu Jul 07 2022 15:44:15 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!point|
+
+
+[07/07/2022] Thu Jul 07 2022 15:44:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 15:44:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 15:44:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 20 3|
+
+
+[07/07/2022] Thu Jul 07 2022 15:44:26 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 15:44:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 15:44:28 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 15:44:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 15:54:44 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 2 5|
+
+
+[07/07/2022] Thu Jul 07 2022 15:54:46 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 15:54:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 15:54:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 15:54:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 7 1|
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:10 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:11 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:12 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|<@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|<@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:33 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:33 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:42 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 10 2|
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:43 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:44 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:45 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 15:55:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 16:27:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|;play https://youtube.com/shorts/DRsxslhHdvA?feature=share|
+
+
+[07/07/2022] Thu Jul 07 2022 16:27:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: FredBoat♪♪            Chat|No audio could be found for `https://youtube.com/shorts/DRsxslhHdvA?feature=share`.|
+
+
+[07/07/2022] Thu Jul 07 2022 18:23:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!time|
+
+
+[07/07/2022] Thu Jul 07 2022 18:24:28 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!time|
+
+
+[07/07/2022] Thu Jul 07 2022 18:25:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!time|
+
+
+[07/07/2022] Thu Jul 07 2022 18:40:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/07/2022] Thu Jul 07 2022 18:41:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/07/2022] Thu Jul 07 2022 18:42:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/07/2022] Thu Jul 07 2022 18:44:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/07/2022] Thu Jul 07 2022 18:45:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/07/2022] Thu Jul 07 2022 18:47:01 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!rep|
+
+
+[07/07/2022] Thu Jul 07 2022 18:47:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/07/2022] Thu Jul 07 2022 18:48:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/07/2022] Thu Jul 07 2022 18:51:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/07/2022] Thu Jul 07 2022 18:52:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/07/2022] Thu Jul 07 2022 18:53:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|d|
+
+
+[07/07/2022] Thu Jul 07 2022 18:53:44 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/07/2022] Thu Jul 07 2022 18:55:48 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/07/2022] Thu Jul 07 2022 18:57:15 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/07/2022] Thu Jul 07 2022 18:59:11 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[07/07/2022] Thu Jul 07 2022 18:59:58 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|Hello|
+
+
+[07/07/2022] Thu Jul 07 2022 19:00:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 19:00:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 19:00:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 10 5|
+
+
+[07/07/2022] Thu Jul 07 2022 19:00:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 19:00:18 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 19:00:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 19:00:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 19:01:46 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!loan|
+
+
+[07/07/2022] Thu Jul 07 2022 19:01:46 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 19:02:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!loan|
+
+
+[07/07/2022] Thu Jul 07 2022 19:02:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 19:31:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 19:33:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 19:33:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[07/07/2022] Thu Jul 07 2022 19:33:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Person you are trying to trade with does not have a ban|
+
+
+[07/07/2022] Thu Jul 07 2022 19:33:59 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a ban|
+
+
+[07/07/2022] Thu Jul 07 2022 19:34:01 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a RD|
+
+
+[07/07/2022] Thu Jul 07 2022 19:34:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a muted|
+
+
+[07/07/2022] Thu Jul 07 2022 19:34:04 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Person you are trying to trade with does not have a muted|
+
+
+[07/07/2022] Thu Jul 07 2022 19:34:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Person you are trying to trade with does not have a RD|
+
+
+[07/07/2022] Thu Jul 07 2022 19:34:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade finished, waiting for tarrystone48 to accept or decline|
+
+
+[07/07/2022] Thu Jul 07 2022 19:34:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 19:34:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 19:34:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You already have a trade open!|
+
+
+[07/07/2022] Thu Jul 07 2022 19:38:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 19:38:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You already have a trade open!|
+
+
+[07/07/2022] Thu Jul 07 2022 19:49:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!Close trade|
+
+
+[07/07/2022] Thu Jul 07 2022 19:49:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You are not in a trade|
+
+
+[07/07/2022] Thu Jul 07 2022 19:49:28 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 19:49:28 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You already have a trade open!|
+
+
+[07/07/2022] Thu Jul 07 2022 19:49:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!Close trade|
+
+
+[07/07/2022] Thu Jul 07 2022 19:49:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade closed|
+
+
+[07/07/2022] Thu Jul 07 2022 19:50:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 19:50:01 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[07/07/2022] Thu Jul 07 2022 19:50:04 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a ban|
+
+
+[07/07/2022] Thu Jul 07 2022 19:50:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Person you are trying to trade with does not have a ban|
+
+
+[07/07/2022] Thu Jul 07 2022 19:50:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Person you are trying to trade with does not have a RD|
+
+
+[07/07/2022] Thu Jul 07 2022 19:50:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a RD|
+
+
+[07/07/2022] Thu Jul 07 2022 19:56:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a muted|
+
+
+[07/07/2022] Thu Jul 07 2022 19:56:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a RD|
+
+
+[07/07/2022] Thu Jul 07 2022 19:56:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade finished, waiting for tarrystone48 to accept or decline|
+
+
+[07/07/2022] Thu Jul 07 2022 19:56:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 19:58:20 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@184405311681986560>|
+
+
+[07/07/2022] Thu Jul 07 2022 19:58:20 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 19:58:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 19:58:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[07/07/2022] Thu Jul 07 2022 19:58:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Person you are trying to trade with does not have a RD|
+
+
+[07/07/2022] Thu Jul 07 2022 19:58:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a ban|
+
+
+[07/07/2022] Thu Jul 07 2022 19:58:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Person you are trying to trade with does not have a ban|
+
+
+[07/07/2022] Thu Jul 07 2022 19:58:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a RD|
+
+
+[07/07/2022] Thu Jul 07 2022 19:58:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a muted|
+
+
+[07/07/2022] Thu Jul 07 2022 19:58:40 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade finished, waiting for tarrystone48 to accept or decline|
+
+
+[07/07/2022] Thu Jul 07 2022 19:58:40 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 19:58:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 19:58:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You already have a trade open!|
+
+
+[07/07/2022] Thu Jul 07 2022 20:01:59 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!Close trade|
+
+
+[07/07/2022] Thu Jul 07 2022 20:01:59 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade closed|
+
+
+[07/07/2022] Thu Jul 07 2022 20:02:03 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 20:02:03 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[07/07/2022] Thu Jul 07 2022 20:02:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Person you are trying to trade with does not have a muted|
+
+
+[07/07/2022] Thu Jul 07 2022 20:02:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a RD|
+
+
+[07/07/2022] Thu Jul 07 2022 20:02:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade finished, waiting for tarrystone48 to accept or decline|
+
+
+[07/07/2022] Thu Jul 07 2022 20:02:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 20:02:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 20:02:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You already have a trade open!|
+
+
+[07/07/2022] Thu Jul 07 2022 20:03:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 20:03:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You already have a trade open!|
+
+
+[07/07/2022] Thu Jul 07 2022 20:03:46 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!Close trade|
+
+
+[07/07/2022] Thu Jul 07 2022 20:03:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade closed|
+
+
+[07/07/2022] Thu Jul 07 2022 20:06:23 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 20:06:23 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[07/07/2022] Thu Jul 07 2022 20:06:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 20:06:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade finished, waiting for tarrystone48 to accept or decline|
+
+
+[07/07/2022] Thu Jul 07 2022 20:06:41 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!Close trade|
+
+
+[07/07/2022] Thu Jul 07 2022 20:06:41 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You have reached 100 points!|
+
+
+[07/07/2022] Thu Jul 07 2022 20:06:41 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Trade closed|
+
+
+[07/07/2022] Thu Jul 07 2022 20:06:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 20:06:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[07/07/2022] Thu Jul 07 2022 20:06:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Person you are trying to trade with does not have a muted|
+
+
+[07/07/2022] Thu Jul 07 2022 20:07:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You did not demand anything|
+
+
+[07/07/2022] Thu Jul 07 2022 20:07:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 20:07:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[07/07/2022] Thu Jul 07 2022 20:07:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You did not demand anything|
+
+
+[07/07/2022] Thu Jul 07 2022 20:07:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[07/07/2022] Thu Jul 07 2022 20:07:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[07/07/2022] Thu Jul 07 2022 20:07:41 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a muted|
+
+
+[07/07/2022] Thu Jul 07 2022 20:07:42 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|ds3knight does not have a RD|
+
+
+[07/07/2022] Thu Jul 07 2022 20:07:44 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Person you are trying to trade with does not have a muted|
+
+
+[07/07/2022] Thu Jul 07 2022 20:07:46 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You did not demand anything|
+
+
+[07/07/2022] Thu Jul 07 2022 20:07:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!Clean|
+
+
+[07/07/2022] Thu Jul 07 2022 20:07:57 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Deleted 100 messages.|
+
+
+[07/07/2022] Thu Jul 07 2022 20:08:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 20:08:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 20:08:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 100 2|
+
+
+[07/07/2022] Thu Jul 07 2022 20:08:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 20:08:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 20:08:33 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 20:08:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 20:08:45 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 20 6|
+
+
+[07/07/2022] Thu Jul 07 2022 20:08:46 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 20:08:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 20:08:48 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 20:08:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:34:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 22:34:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:34:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|kd|
+
+
+[07/07/2022] Thu Jul 07 2022 22:34:40 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 22:34:41 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:34:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 5 4|
+
+
+[07/07/2022] Thu Jul 07 2022 22:34:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:34:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:34:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:34:58 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:35:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|jkh jkf|
+
+
+[07/07/2022] Thu Jul 07 2022 22:35:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|hj fs|
+
+
+[07/07/2022] Thu Jul 07 2022 22:35:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|sfhks|
+
+
+[07/07/2022] Thu Jul 07 2022 22:35:12 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 22:35:12 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:35:26 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 5 2|
+
+
+[07/07/2022] Thu Jul 07 2022 22:35:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:35:28 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:35:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:35:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:36:20 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 3 4|
+
+
+[07/07/2022] Thu Jul 07 2022 22:36:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:36:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:36:23 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:36:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:37:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 10 1|
+
+
+[07/07/2022] Thu Jul 07 2022 22:37:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:37:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:37:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:37:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:37:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 4 2|
+
+
+[07/07/2022] Thu Jul 07 2022 22:37:48 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:37:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:37:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:37:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:38:04 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 2 5|
+
+
+[07/07/2022] Thu Jul 07 2022 22:38:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:38:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:38:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:38:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:38:13 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 22:38:13 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:38:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!allpoints|
+
+
+[07/07/2022] Thu Jul 07 2022 22:38:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:38:43 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 22:38:43 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 100 2|
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:10 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 250 5|
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 650 2|
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:39:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:40:24 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 150 3|
+
+
+[07/07/2022] Thu Jul 07 2022 22:40:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:40:26 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:40:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:40:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:40:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 22:40:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:40:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 220 4|
+
+
+[07/07/2022] Thu Jul 07 2022 22:40:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:40:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:40:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:40:58 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:41:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 300 5|
+
+
+[07/07/2022] Thu Jul 07 2022 22:41:15 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:41:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:41:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:41:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:41:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 300 2|
+
+
+[07/07/2022] Thu Jul 07 2022 22:41:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:41:40 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:41:41 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:41:43 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:41:58 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 200 2|
+
+
+[07/07/2022] Thu Jul 07 2022 22:41:59 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:01 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:03 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 2730 2|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:10 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:11 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:12 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:18 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|jjlkewj|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|djwljd|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:20 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|dkwjd|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:23 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:42 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 200 3|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:43 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|You dont have enough points to gamble that much|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:59 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 22:42:59 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:24 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 15 2|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:26 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:45 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|hell|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:46 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|kjwdejkl|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:46 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|kjne|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:47 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|]jks;odf|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:48 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|lkkhfs|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:48 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|kdhjfs|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|hcxskjh|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|jshfdlks|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!pointsa|
+
+
+[07/07/2022] Thu Jul 07 2022 22:43:59 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!point|
+
+
+[07/07/2022] Thu Jul 07 2022 22:44:01 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 22:44:01 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:44:48 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 20 4|
+
+
+[07/07/2022] Thu Jul 07 2022 22:44:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:44:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:44:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:44:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:45:04 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 25 a hsoe|
+
+
+[07/07/2022] Thu Jul 07 2022 22:45:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:45:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:45:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:45:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:46:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|jljkhd|
+
+
+[07/07/2022] Thu Jul 07 2022 22:46:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|djchs|
+
+
+[07/07/2022] Thu Jul 07 2022 22:46:57 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 2 ashoe|
+
+
+[07/07/2022] Thu Jul 07 2022 22:46:57 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Please use numbers|
+
+
+[07/07/2022] Thu Jul 07 2022 22:47:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 2 a donkey|
+
+
+[07/07/2022] Thu Jul 07 2022 22:47:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Please use numbers|
+
+
+[07/07/2022] Thu Jul 07 2022 22:48:13 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 3 3|
+
+
+[07/07/2022] Thu Jul 07 2022 22:48:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:48:15 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:48:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:48:18 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:48:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 22:48:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:49:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 100000 2|
+
+
+[07/07/2022] Thu Jul 07 2022 22:49:03 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:49:04 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:49:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:49:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:49:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 30 6|
+
+
+[07/07/2022] Thu Jul 07 2022 22:49:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:49:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:49:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:50:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 299970 1|
+
+
+[07/07/2022] Thu Jul 07 2022 22:50:18 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:50:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:50:20 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:50:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:50:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|dog|
+
+
+[07/07/2022] Thu Jul 07 2022 22:50:41 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|cat|
+
+
+[07/07/2022] Thu Jul 07 2022 22:52:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!stats gamble|
+
+
+[07/07/2022] Thu Jul 07 2022 22:52:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:52:28 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!points|
+
+
+[07/07/2022] Thu Jul 07 2022 22:52:28 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:52:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 10 2|
+
+
+[07/07/2022] Thu Jul 07 2022 22:52:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:52:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/07/2022] Thu Jul 07 2022 22:52:40 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/07/2022] Thu Jul 07 2022 22:52:42 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 22:58:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|Yusufs|
+
+
+[07/07/2022] Thu Jul 07 2022 22:58:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 23:00:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|Yusufs|
+
+
+[07/07/2022] Thu Jul 07 2022 23:00:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 23:00:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|Yusufs|
+
+
+[07/07/2022] Thu Jul 07 2022 23:00:22 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 23:01:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|Yusufs|
+
+
+[07/07/2022] Thu Jul 07 2022 23:01:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 23:05:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|Yusufs|
+
+
+[07/07/2022] Thu Jul 07 2022 23:05:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 23:06:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|Yusufs|
+
+
+[07/07/2022] Thu Jul 07 2022 23:06:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 23:07:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|Yusufs|
+
+
+[07/07/2022] Thu Jul 07 2022 23:07:58 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|Yusufs|
+
+
+[07/07/2022] Thu Jul 07 2022 23:07:58 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 23:08:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|Yusufs|
+
+
+[07/07/2022] Thu Jul 07 2022 23:08:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 23:09:12 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|Yusufs|
+
+
+[07/07/2022] Thu Jul 07 2022 23:09:12 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 23:10:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: ds3knight            Chat|Yusufs|
+
+
+[07/07/2022] Thu Jul 07 2022 23:10:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 23:12:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 23:12:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 23:13:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/07/2022] Thu Jul 07 2022 23:14:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 17:50:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!points|
+
+
+[07/08/2022] Fri Jul 08 2022 17:50:20 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 17:50:20 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Get kicked out loser|
+
+
+[07/08/2022] Fri Jul 08 2022 17:51:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!points|
+
+
+[07/08/2022] Fri Jul 08 2022 17:51:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 17:51:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 30 2|
+
+
+[07/08/2022] Fri Jul 08 2022 17:51:40 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/08/2022] Fri Jul 08 2022 17:51:41 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/08/2022] Fri Jul 08 2022 17:51:42 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/08/2022] Fri Jul 08 2022 17:51:44 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 17:51:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 60 1|
+
+
+[07/08/2022] Fri Jul 08 2022 17:51:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/08/2022] Fri Jul 08 2022 17:51:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/08/2022] Fri Jul 08 2022 17:51:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/08/2022] Fri Jul 08 2022 17:51:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 17:53:36 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 40 4|
+
+
+[07/08/2022] Fri Jul 08 2022 17:53:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/08/2022] Fri Jul 08 2022 17:53:41 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 17:53:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 50 3|
+
+
+[07/08/2022] Fri Jul 08 2022 17:53:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/08/2022] Fri Jul 08 2022 17:53:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/08/2022] Fri Jul 08 2022 17:54:13 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 200 5|
+
+
+[07/08/2022] Fri Jul 08 2022 17:55:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble30 4|
+
+
+[07/08/2022] Fri Jul 08 2022 17:55:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Make sure you typed it correctly|
+
+
+[07/08/2022] Fri Jul 08 2022 17:55:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 30 2|
+
+
+[07/08/2022] Fri Jul 08 2022 17:55:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/08/2022] Fri Jul 08 2022 17:55:23 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/08/2022] Fri Jul 08 2022 17:55:24 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/08/2022] Fri Jul 08 2022 17:55:26 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 17:55:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 30 1|
+
+
+[07/08/2022] Fri Jul 08 2022 17:55:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/08/2022] Fri Jul 08 2022 17:55:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/08/2022] Fri Jul 08 2022 17:55:57 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/08/2022] Fri Jul 08 2022 17:55:59 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 17:57:28 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!give 5 <@548908263958380544>|
+
+
+[07/08/2022] Fri Jul 08 2022 17:57:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 18:05:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!rep|
+
+
+[07/08/2022] Fri Jul 08 2022 18:06:43 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!rep|
+
+
+[07/08/2022] Fri Jul 08 2022 18:06:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!rep|
+
+
+[07/08/2022] Fri Jul 08 2022 18:07:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!rep|
+
+
+[07/08/2022] Fri Jul 08 2022 18:07:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!rep|
+
+
+[07/08/2022] Fri Jul 08 2022 18:08:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 3 2|
+
+
+[07/08/2022] Fri Jul 08 2022 18:08:19 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You dont have enough points to gamble that much|
+
+
+[07/08/2022] Fri Jul 08 2022 18:08:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|kd|
+
+
+[07/08/2022] Fri Jul 08 2022 18:08:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!gamble 5 1|
+
+
+[07/08/2022] Fri Jul 08 2022 18:08:31 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/08/2022] Fri Jul 08 2022 18:08:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[07/08/2022] Fri Jul 08 2022 18:08:33 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[07/08/2022] Fri Jul 08 2022 18:08:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 18:18:42 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!demote <@235545810706759681>|
+
+
+[07/08/2022] Fri Jul 08 2022 18:18:42 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You dont own this command|
+
+
+[07/08/2022] Fri Jul 08 2022 18:18:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!buy demote|
+
+
+[07/08/2022] Fri Jul 08 2022 18:18:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You do not have enough points to buy a demote!. You need 1000 points to buy a demote(ds3knight: 10 points)|
+
+
+[07/08/2022] Fri Jul 08 2022 18:21:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: Serro            Chat|bitchass mib|
+
+
+[07/08/2022] Fri Jul 08 2022 18:21:45 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|testing code, please dont respond|
+
+
+[07/08/2022] Fri Jul 08 2022 18:50:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|Drago added **Bury the Light - Vergil's battle theme from Devil May Cry 5 Special Edition**|
+
+
+[07/08/2022] Fri Jul 08 2022 19:13:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|;q|
+
+
+[07/08/2022] Fri Jul 08 2022 19:13:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|Page **1** of **1**.
+
+`[1]` \▶**Guilty Gear Strive - Smell Of The Game (Main Theme)** added by **Drago** `[05:04]`
+`[2]` **SOCIETY (FULL VERSION) - Guilty Gear STRIVE (Potemkin's Theme)** added by **Bunk** `[05:16]`
+
+There are **2** tracks with a remaining length of **[09:09]** in the queue.|
+
+
+[07/08/2022] Fri Jul 08 2022 20:26:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 20:26:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 20:27:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 20:27:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 20:27:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 20:27:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 20:29:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|;clear|
+
+
+[07/08/2022] Fri Jul 08 2022 20:29:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|;stop|
+
+
+[07/08/2022] Fri Jul 08 2022 20:29:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|The queue has been emptied, `10` tracks have been removed.|
+
+
+[07/08/2022] Fri Jul 08 2022 20:29:43 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|;play club goin up on a tuesday|
+
+
+[07/08/2022] Fri Jul 08 2022 20:29:44 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|Searching YouTube for `club goin up on a tuesday`...|
+
+
+[07/08/2022] Fri Jul 08 2022 20:29:48 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|;play 1|
+
+
+[07/08/2022] Fri Jul 08 2022 20:29:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 20:29:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 20:30:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stocks|
+
+
+[07/08/2022] Fri Jul 08 2022 20:30:58 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 20:30:58 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 20:32:59 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|;loop|
+
+
+[07/08/2022] Fri Jul 08 2022 20:32:59 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|Bunk:  Proper usage:```md
+;loop single|all|off
+#Toggle between repeat modes.
+```|
+
+
+[07/08/2022] Fri Jul 08 2022 20:33:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|;skip|
+
+
+[07/08/2022] Fri Jul 08 2022 20:33:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|Skipped track #1: **ILOVEMAKONNEN (FEAT. DRAKE) - TUESDAY**|
+
+
+[07/08/2022] Fri Jul 08 2022 20:33:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|;play tuesday drake|
+
+
+[07/08/2022] Fri Jul 08 2022 20:33:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|Searching YouTube for `tuesday drake`...|
+
+
+[07/08/2022] Fri Jul 08 2022 20:33:11 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|;play 1|
+
+
+[07/08/2022] Fri Jul 08 2022 20:33:48 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 20:33:48 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 20:35:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 20:35:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 20:36:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 20:36:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 20:37:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Bunk            Chat|;loop off|
+
+
+[07/08/2022] Fri Jul 08 2022 20:37:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|The player is no longer on repeat.|
+
+
+[07/08/2022] Fri Jul 08 2022 20:37:13 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: CHUBBZ            Chat|;play lil baby freestyle|
+
+
+[07/08/2022] Fri Jul 08 2022 20:37:13 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: FredBoat♪♪            Chat|Searching YouTube for `lil baby freestyle`...|
+
+
+[07/08/2022] Fri Jul 08 2022 20:37:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: CHUBBZ            Chat|;play 1|
+
+
+[07/08/2022] Fri Jul 08 2022 22:11:12 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 22:11:12 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 22:13:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 22:13:51 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 22:13:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 22:16:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 22:16:38 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 22:16:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 22:23:58 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stocks|
+
+
+[07/08/2022] Fri Jul 08 2022 22:24:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 22:24:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 22:24:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 22:40:24 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!rep|
+
+
+[07/08/2022] Fri Jul 08 2022 22:40:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 22:40:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 22:41:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 22:41:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 22:41:27 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 22:41:28 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 22:48:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!buy stocks 3|
+
+
+[07/08/2022] Fri Jul 08 2022 22:48:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!buy stocks 4|
+
+
+[07/08/2022] Fri Jul 08 2022 22:48:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You do not have enough points|
+
+
+[07/08/2022] Fri Jul 08 2022 22:50:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!buy stocks 30|
+
+
+[07/08/2022] Fri Jul 08 2022 22:50:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You do not have enough points|
+
+
+[07/08/2022] Fri Jul 08 2022 22:50:15 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!buy stocks 3|
+
+
+[07/08/2022] Fri Jul 08 2022 22:50:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You do not have enough points|
+
+
+[07/08/2022] Fri Jul 08 2022 22:50:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!buy stocks 20|
+
+
+[07/08/2022] Fri Jul 08 2022 22:50:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 22:51:03 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: Lucid_espRツ            Chat|https://tenor.com/view/minecraft-minecraft-dungeons-watch-your-tone-watch-your-tone-mf-sus-gif-24282638|
+
+
+[07/08/2022] Fri Jul 08 2022 22:53:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 22:53:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/08/2022] Fri Jul 08 2022 22:54:23 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[07/08/2022] Fri Jul 08 2022 22:54:23 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat||
+
+
+[07/16/2022] Sat Jul 16 2022 15:08:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!around <@548908263958380544>|
+
+
+[10/30/2022] Sun Oct 30 2022 16:39:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|Role|
+
+
+[10/30/2022] Sun Oct 30 2022 16:39:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Drago has no roles|
+
+
+[10/30/2022] Sun Oct 30 2022 16:39:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Lucid_espRツ has no roles|
+
+
+[10/30/2022] Sun Oct 30 2022 16:39:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|tarrystone48 has no roles|
+
+
+[10/30/2022] Sun Oct 30 2022 16:39:30 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|ds3knight has no roles|
+
+
+[10/30/2022] Sun Oct 30 2022 16:40:26 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!stock|
+
+
+[10/30/2022] Sun Oct 30 2022 16:43:21 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!stock|
+
+
+[10/30/2022] Sun Oct 30 2022 16:45:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!points|
+
+
+[10/30/2022] Sun Oct 30 2022 16:45:49 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[10/30/2022] Sun Oct 30 2022 16:46:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!roll 3 45|
+
+
+[10/30/2022] Sun Oct 30 2022 16:46:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|w|
+
+
+[10/30/2022] Sun Oct 30 2022 16:46:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|d|
+
+
+[10/30/2022] Sun Oct 30 2022 16:46:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!gamble 3 40|
+
+
+[10/30/2022] Sun Oct 30 2022 16:46:25 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|You need to enter a number between 1 and 6|
+
+
+[10/30/2022] Sun Oct 30 2022 16:46:32 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!gamble 50 2|
+
+
+[10/30/2022] Sun Oct 30 2022 16:46:33 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[10/30/2022] Sun Oct 30 2022 16:46:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[10/30/2022] Sun Oct 30 2022 16:46:35 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[10/30/2022] Sun Oct 30 2022 16:46:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[10/30/2022] Sun Oct 30 2022 16:47:00 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!gamble 600 2|
+
+
+[10/30/2022] Sun Oct 30 2022 16:47:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[10/30/2022] Sun Oct 30 2022 16:47:03 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[10/30/2022] Sun Oct 30 2022 16:47:03 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[10/30/2022] Sun Oct 30 2022 16:47:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[10/30/2022] Sun Oct 30 2022 16:47:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!points|
+
+
+[10/30/2022] Sun Oct 30 2022 16:47:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[10/30/2022] Sun Oct 30 2022 16:47:24 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|s|
+
+
+[10/30/2022] Sun Oct 30 2022 16:47:26 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|s|
+
+
+[10/30/2022] Sun Oct 30 2022 16:47:28 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!points|
+
+
+[10/30/2022] Sun Oct 30 2022 16:47:28 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[10/30/2022] Sun Oct 30 2022 17:02:52 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!gamble 300 3|
+
+
+[10/30/2022] Sun Oct 30 2022 17:02:53 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[10/30/2022] Sun Oct 30 2022 17:02:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[10/30/2022] Sun Oct 30 2022 17:02:55 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[10/30/2022] Sun Oct 30 2022 17:02:57 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat||
+
+
+[10/30/2022] Sun Oct 30 2022 17:04:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[10/30/2022] Sun Oct 30 2022 17:04:02 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[10/30/2022] Sun Oct 30 2022 17:04:08 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Person you are trying to trade with does not have a ban|
+
+
+[10/30/2022] Sun Oct 30 2022 17:04:11 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|ds3knight does not have a ban|
+
+
+[10/30/2022] Sun Oct 30 2022 17:04:13 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|ds3knight does not have a RD|
+
+
+[10/30/2022] Sun Oct 30 2022 17:04:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|ds3knight does not have a muted|
+
+
+[10/30/2022] Sun Oct 30 2022 17:04:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Person you are trying to trade with does not have a muted|
+
+
+[10/30/2022] Sun Oct 30 2022 17:04:20 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Person you are trying to trade with does not have a RD|
+
+
+[10/30/2022] Sun Oct 30 2022 17:04:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|ds3knight does not have a RD|
+
+
+[10/30/2022] Sun Oct 30 2022 17:04:56 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Person you are trying to trade with does not have a RD|
+
+
+[10/30/2022] Sun Oct 30 2022 17:05:29 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|You did not demand anything|
+
+
+[10/30/2022] Sun Oct 30 2022 17:05:42 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[10/30/2022] Sun Oct 30 2022 17:05:42 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[10/30/2022] Sun Oct 30 2022 17:05:45 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Person you are trying to trade with does not have a RD|
+
+
+[10/30/2022] Sun Oct 30 2022 17:05:46 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|ds3knight does not have a RD|
+
+
+[10/30/2022] Sun Oct 30 2022 17:06:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!trade <@548908263958380544>|
+
+
+[10/30/2022] Sun Oct 30 2022 17:06:05 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|What do you want to trade?|
+
+
+[10/30/2022] Sun Oct 30 2022 17:06:07 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|ds3knight does not have a RD|
+
+
+[10/30/2022] Sun Oct 30 2022 17:06:37 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Person you are trying to trade with does not have a RD|
+
+
+[10/30/2022] Sun Oct 30 2022 17:06:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|Person you are trying to trade with does not have a RD|
+
+
+[11/02/2022] Wed Nov 02 2022 15:53:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!demote <@548908263958380544>|
+
+
+[11/02/2022] Wed Nov 02 2022 15:53:06 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|You dont own this command|
+
+
+[11/02/2022] Wed Nov 02 2022 15:53:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!demote <@548908263958380544>|
+
+
+[11/02/2022] Wed Nov 02 2022 15:53:54 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|You dont own this command|
+
+
+[11/02/2022] Wed Nov 02 2022 15:55:20 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!demote <@548908263958380544>|
+
+
+[11/02/2022] Wed Nov 02 2022 16:10:14 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!demote <@548908263958380544>|
+
+
+[11/02/2022] Wed Nov 02 2022 16:13:16 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!demote <@548908263958380544>|
+
+
+[11/02/2022] Wed Nov 02 2022 16:38:33 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!demote <@548908263958380544>|
+
+
+[11/02/2022] Wed Nov 02 2022 16:38:34 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: the J.O.B            Chat|tarrystone48#7922 has been demoted|
+
+
+[11/02/2022] Wed Nov 02 2022 16:39:33 GMT-0400 (Eastern Daylight Time)
+{In Channel: moistanmustymurkygen}  User: ds3knight            Chat|!promote <@615686084650860544>|
+
+
+[11/02/2022] Wed Nov 02 2022 16:40:17 GMT-0400 (Eastern Daylight Time)
+{In Channel: talk-mad-shit}  User: ds3knight            Chat|rd|
+
+
+[11/02/2022] Wed Nov 02 2022 16:40:18 GMT-0400 (Eastern Daylight Time)
+{In Channel: talk-mad-shit}  User: the J.O.B            Chat|Goodbye Drago, you have been randomly disconnected|
+
+
+[11/02/2022] Wed Nov 02 2022 16:40:18 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|Here is the results|
+
+
+[11/02/2022] Wed Nov 02 2022 17:39:09 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[11/02/2022] Wed Nov 02 2022 17:39:39 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[11/02/2022] Wed Nov 02 2022 17:49:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: ds3knight            Chat|!stock|
+
+
+[11/02/2022] Wed Nov 02 2022 17:49:50 GMT-0400 (Eastern Daylight Time)
+{In Channel: testing-channel}  User: the J.O.B            Chat|You have reached 1800 points!|
+
+
+[11/06/2022] Sun Nov 06 2022 22:28:18 GMT-0500 (Eastern Standard Time)
+{In Channel: general}  User: ds3knight            Chat|points|
+
+
+[11/06/2022] Sun Nov 06 2022 22:28:21 GMT-0500 (Eastern Standard Time)
+{In Channel: general}  User: ds3knight            Chat|!points|
+
+
+[11/06/2022] Sun Nov 06 2022 22:28:21 GMT-0500 (Eastern Standard Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[11/06/2022] Sun Nov 06 2022 22:29:32 GMT-0500 (Eastern Standard Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 200 2|
+
+
+[11/06/2022] Sun Nov 06 2022 22:29:33 GMT-0500 (Eastern Standard Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[11/06/2022] Sun Nov 06 2022 22:29:34 GMT-0500 (Eastern Standard Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[11/06/2022] Sun Nov 06 2022 22:29:35 GMT-0500 (Eastern Standard Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[11/06/2022] Sun Nov 06 2022 22:29:37 GMT-0500 (Eastern Standard Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+
+[11/06/2022] Sun Nov 06 2022 22:29:56 GMT-0500 (Eastern Standard Time)
+{In Channel: general}  User: ds3knight            Chat|!gamble 200 3|
+
+
+[11/06/2022] Sun Nov 06 2022 22:29:57 GMT-0500 (Eastern Standard Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[11/06/2022] Sun Nov 06 2022 22:29:58 GMT-0500 (Eastern Standard Time)
+{In Channel: general}  User: the J.O.B            Chat|Rolling...🎲|
+
+
+[11/06/2022] Sun Nov 06 2022 22:29:59 GMT-0500 (Eastern Standard Time)
+{In Channel: general}  User: the J.O.B            Chat|Results in 📝 and you...|
+
+
+[11/06/2022] Sun Nov 06 2022 22:30:01 GMT-0500 (Eastern Standard Time)
+{In Channel: general}  User: the J.O.B            Chat||
+
+

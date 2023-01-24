@@ -1,0 +1,34 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/rest": "^0.5.0",
+    "@discordjs/voice": "^0.9.0",
+    "child_process": "^1.0.2",
+    "date": "^2.0.0",
+    "discord-api-types": "^0.33.5",
+    "discord.js": "^13.12.0",
+    "ffmpeg-static": "^4.4.1",
+    "get-youtube-id": "^1.0.1",
+    "jQuery": "^1.7.4",
+    "json": "^11.0.0",
+    "libsodium-wrappers": "^0.7.10",
+    "nodemailer": "^6.7.5",
+    "open": "^8.4.0",
+    "puppeteer": "^15.3.2",
+    "require": "^2.4.20",
+    "simple-youtube-api": "^5.2.1",
+    "stocks.js": "^0.0.19",
+    "twilio": "^3.78.0",
+    "youtube-info": "^1.1.1",
+    "ytdl-core": "^4.11.0"
+  }
+}
